@@ -38,7 +38,7 @@ body {
  color: black;
 }
 .login-box input {
- width: 100%;
+ width: 91%;
  padding: 12px;
  margin-bottom: 15px;
  border: 1px solid #ccc;
@@ -75,4 +75,5 @@ body {
 .login-box button:active {
  transform: scale(0.97);
  background-color: #0d2961;
+
 }
